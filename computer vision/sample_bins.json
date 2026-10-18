@@ -1,0 +1,26 @@
+[
+  {
+    "bin_id": "BIN-01",
+    "fill_level": 85.0,
+    "latitude": 12.93,
+    "longitude": 77.61,
+    "predicted_fill_level": 95.0,
+    "estimated_time_to_overflow_hours": 3.0
+  },
+  {
+    "bin_id": "BIN-02",
+    "fill_level": 70.0,
+    "latitude": 12.94,
+    "longitude": 77.62,
+    "predicted_fill_level": 78.0,
+    "estimated_time_to_overflow_hours": 7.5
+  },
+  {
+    "bin_id": "BIN-03",
+    "fill_level": 35.0,
+    "latitude": 12.92,
+    "longitude": 77.6,
+    "predicted_fill_level": 47.0,
+    "estimated_time_to_overflow_hours": 10.83
+  }
+]
